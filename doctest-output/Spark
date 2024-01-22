@@ -1,0 +1,24 @@
+// Spark
+digraph {
+	A [label=Spark]
+	A [label=Spark]
+	A [label=Spark]
+	A [label=Spark]
+	A [label=Spark]
+	A [label=Spark]
+	A [label=Spark]
+	B [label="Julieta\nJose\nPablo"]
+	C [label="Pedro\nData Engineer"]
+	A -> B
+	B -> C
+	A [label=Spark]
+	D [label="Julieta\nJose\nIsabella"]
+	E [label="Laura\nSenior Data Analyst"]
+	A -> D
+	D -> E
+	A [label=Spark]
+	F [label="Julieta\nJose\nIsabella"]
+	G [label="Maria\nSenior Data Analyst"]
+	A -> F
+	F -> G
+}

@@ -1,0 +1,16 @@
+// Publicis
+digraph {
+	A [label=Publicis]
+	A [label=Publicis]
+	A [label=Publicis]
+	A [label=Publicis]
+	A [label=Publicis]
+	A [label=Publicis]
+	B [label="Julieta\nJose\nEduardo"]
+	C [label="Carolina\nData Analyst"]
+	A -> B
+	B -> C
+	A [label=Publicis]
+	A [label=Publicis]
+	A [label=Publicis]
+}

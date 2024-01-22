@@ -1,0 +1,24 @@
+// Avianca
+digraph {
+	A [label=Avianca]
+	A [label=Avianca]
+	A [label=Avianca]
+	B [label="Julieta\nDiego\nEduardo"]
+	C [label="Carlos\nData Analyst"]
+	A -> B
+	B -> C
+	A [label=Avianca]
+	D [label="Julieta\nDiego\nKarina"]
+	E [label="Fabio\nData Engineer"]
+	A -> D
+	D -> E
+	A [label=Avianca]
+	F [label="Julieta\nDiego\nEduardo"]
+	G [label="Andrea\nData Analyst"]
+	A -> F
+	F -> G
+	A [label=Avianca]
+	A [label=Avianca]
+	A [label=Avianca]
+	A [label=Avianca]
+}
